@@ -1,0 +1,5 @@
+name: BlockBlocker
+main: com.dnikitaa.BlockBlocker.BlockBlocker
+version: 1.0
+authors:
+    - DnikitaA
